@@ -1,2 +1,2 @@
 # DEVOPS_PRACTICE1
-For learning purpose
+For learning and practice purpose
